@@ -3,7 +3,7 @@
 https://houy062924.github.io/NoteBook--React-Redux-todo-list/
 
 ## Introduction
-NoteBook is a to-do list that can help you manage your tasks every day. 
+NoteBook is a to-do list that can help you manage your daily tasks. 
 
 ## Technologies Used
 
