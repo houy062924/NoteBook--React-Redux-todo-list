@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NoteBook--React-Redux-todo-list/static/css/main.ac342b04.chunk.css",
+    "main.js": "/NoteBook--React-Redux-todo-list/static/js/main.c34b9b79.chunk.js",
+    "main.js.map": "/NoteBook--React-Redux-todo-list/static/js/main.c34b9b79.chunk.js.map",
+    "runtime-main.js": "/NoteBook--React-Redux-todo-list/static/js/runtime-main.94406962.js",
+    "runtime-main.js.map": "/NoteBook--React-Redux-todo-list/static/js/runtime-main.94406962.js.map",
+    "static/js/2.0ae1738c.chunk.js": "/NoteBook--React-Redux-todo-list/static/js/2.0ae1738c.chunk.js",
+    "static/js/2.0ae1738c.chunk.js.map": "/NoteBook--React-Redux-todo-list/static/js/2.0ae1738c.chunk.js.map",
+    "index.html": "/NoteBook--React-Redux-todo-list/index.html",
+    "static/css/main.ac342b04.chunk.css.map": "/NoteBook--React-Redux-todo-list/static/css/main.ac342b04.chunk.css.map",
+    "static/js/2.0ae1738c.chunk.js.LICENSE.txt": "/NoteBook--React-Redux-todo-list/static/js/2.0ae1738c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94406962.js",
+    "static/js/2.0ae1738c.chunk.js",
+    "static/css/main.ac342b04.chunk.css",
+    "static/js/main.c34b9b79.chunk.js"
+  ]
+}
