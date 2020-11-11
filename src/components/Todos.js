@@ -30,7 +30,7 @@ class Todos extends Component {
             {todo.body}
           </p>
 
-          <img src="/images/delete.png"
+          <img src="./images/delete.png"
             className="delete-button"
             onClick={() => {this.deleteTodo(todo.id)}}
           />
