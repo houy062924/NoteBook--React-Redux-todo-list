@@ -8,15 +8,6 @@ NoteBook is a to-do list that can help you manage your daily tasks.
 ## Technologies Used
 
 This is a practice project for me to get familiarized with React Redux.
-
- - Fundamental Languages
-    * HTML
-    * CSS
-    * JavaScript
- - Front-End Frameworks
-    * React
- - State Managing Tools
-    * Redux
     
 ## Site Demo
 
