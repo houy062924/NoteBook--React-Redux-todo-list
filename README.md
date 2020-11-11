@@ -21,4 +21,5 @@ This is a practice project for me to get familiarized with React Redux.
 ## Site Demo
 
 **Home Page**
+
 ![Alt text](readme/Home.png)
